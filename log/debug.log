@@ -1,0 +1,54 @@
+Array
+(
+    [message] => @cycle3 @cycle3 Chapter6-7
+返信8
+    [reply_post_id] => 
+)
+Array
+(
+    [message] => @test01 こんにちは
+返信1
+    [reply_post_id] => 
+)
+Array
+(
+    [message] => 反映しない
+    [reply_post_id] => 1
+)
+Array
+(
+    [message] => @cycle3 反映しない
+返信
+    [reply_post_id] => 
+)
+Array
+(
+    [message] => @cycle3 反映しない
+返信2
+    [reply_post_id] => 
+)
+Array
+(
+    [message] => @cycle3 反映しない
+返信3
+    [reply_post_id] => 
+)
+Array
+(
+    [message] => @cycle3 反映しない
+へんしん4
+    [reply_post_id] => 27
+)
+Array
+(
+    [message] => 返信反映確認
+    [reply_post_id] => <br />
+<b>Notice</b>:  Undefined index: res in <b>/Applications/MAMP/htdocs/post/index.php</b> on line <b>101</b><br />
+
+)
+Array
+(
+    [message] => @cycle3 返信反映確認
+返信
+    [reply_post_id] => 32
+)

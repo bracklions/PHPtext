@@ -1,0 +1,248 @@
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+Array
+(
+    [0] => Array
+        (
+            [liked_post_id] => 1
+            [0] => 1
+        )
+
+    [1] => Array
+        (
+            [liked_post_id] => 2
+            [0] => 2
+        )
+
+    [2] => Array
+        (
+            [liked_post_id] => 3
+            [0] => 3
+        )
+
+    [3] => Array
+        (
+            [liked_post_id] => 8
+            [0] => 8
+        )
+
+    [4] => Array
+        (
+            [liked_post_id] => 4
+            [0] => 4
+        )
+
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+Array
+(
+    [0] => Array
+        (
+            [liked_post_id] => 1
+            [0] => 1
+        )
+
+    [1] => Array
+        (
+            [liked_post_id] => 2
+            [0] => 2
+        )
+
+    [2] => Array
+        (
+            [liked_post_id] => 3
+            [0] => 3
+        )
+
+    [3] => Array
+        (
+            [liked_post_id] => 8
+            [0] => 8
+        )
+
+    [4] => Array
+        (
+            [liked_post_id] => 4
+            [0] => 4
+        )
+
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+Array
+(
+    [0] => Array
+        (
+            [liked_post_id] => 1
+            [0] => 1
+        )
+
+    [1] => Array
+        (
+            [liked_post_id] => 2
+            [0] => 2
+        )
+
+    [2] => Array
+        (
+            [liked_post_id] => 3
+            [0] => 3
+        )
+
+    [3] => Array
+        (
+            [liked_post_id] => 8
+            [0] => 8
+        )
+
+    [4] => Array
+        (
+            [liked_post_id] => 4
+            [0] => 4
+        )
+
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+Array
+(
+    [0] => Array
+        (
+            [liked_post_id] => 1
+            [0] => 1
+        )
+
+    [1] => Array
+        (
+            [liked_post_id] => 2
+            [0] => 2
+        )
+
+    [2] => Array
+        (
+            [liked_post_id] => 3
+            [0] => 3
+        )
+
+    [3] => Array
+        (
+            [liked_post_id] => 8
+            [0] => 8
+        )
+
+    [4] => Array
+        (
+            [liked_post_id] => 4
+            [0] => 4
+        )
+
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)
+PDOStatement Object
+(
+    [queryString] => SELECT liked_post_id FROM likes WHERE pressed_member_id=?
+)

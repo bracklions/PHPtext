@@ -1,0 +1,13 @@
+.like {
+	font-family: "MS PGothic","ＭＳ Ｐゴシック","Osaka","Arial","sans-serif";
+	text-decoration: none;
+}
+
+#liked {
+	color:red;
+}
+
+.likeCount {
+	font-size: 80%;
+	color: #999;
+}
